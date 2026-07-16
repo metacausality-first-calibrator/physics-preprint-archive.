@@ -13,3 +13,4 @@
 
 ## Note
 16 core corollaries are staged in the Gitee primary repository (`docs/corollaries_v1.md`).
+Update README: link to Gitee primary anchor
