@@ -1,6 +1,6 @@
 # Physics Preprint Archive
 
-> **Primary Anchor (Gitee, TSA-sealed)**: https://gitee.com/你的Gitee用户名/physics-preprint-archive
+> **Primary Anchor (Gitee, TSA-sealed)**: https://gitee.com/metacausality/physics-preprint-archive
 > This is a read-only mirror for international timestamp chain.
 
 ## Contents
