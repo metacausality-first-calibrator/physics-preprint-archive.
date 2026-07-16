@@ -1,0 +1,8 @@
+metacausality-core/
+├── Metacausality_V1.0_Axioms.pdf      # 公理零+一，TSA 过的
+├── Metacausality_V2.0_Formula_Definition.docx  # 公式+符号表，TSA 过的
+├── docs/
+│   └── corollaries_v1.md              # 16 瓶推论（只列提纲/摘要，不全放肉）
+├── LICENSE                            # CC BY-NC-ND 4.0 全文
+├── README.md                          # 见下方
+└── .gitignore                         # 可选，防手滑
